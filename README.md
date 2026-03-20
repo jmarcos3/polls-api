@@ -1,4 +1,4 @@
-# 📊 Polls App — Polling System Backend
+# 📊 Polling System API
 
 A complete polling system with creation, listing, voting and authentication. Built with **NestJS** on the backend and **Drizzle ORM** for **MySQL** database management. The project includes a React frontend integration, modular architecture, JWT authentication, and Docker containers to simplify setup and deployment.
 
@@ -47,10 +47,4 @@ This project was an excellent opportunity to reinforce and apply concepts such a
 
 ---
 
-## 🌐 Frontend
-
-The frontend for this project is available at:  
-🔗 [https://github.com/jmarcos3/pollsApp-frontend](https://github.com/jmarcos3/pollsApp-frontend)
-
----
 
